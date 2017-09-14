@@ -34,7 +34,9 @@
 
 ## Recap
 
-This was my first time trying ReactJS. There was a lot of trouble when I was trying to get it to work. Downloads wasn't working, node wasn't the right version, and etc. I was able to overcome these problems by trying out different sudo apt-install, curl, brew, and yarn. I eventually was able to get it working with the hlpe of the TA. I found help from [StackOverflow](https://stackoverflow.com/questions/43517963/running-react-application-in-aws-ec2-server) and [How to install Node JS](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/).
+This was my first time trying ReactJS. There was a lot of trouble when I was trying to get it to work. Downloads wasn't working, node wasn't the right version, and etc. I was able to overcome these problems by trying out different sudo apt-install, curl, brew, and yarn. ReactJS look very interesting to me and it looks very challenging. I eventually was able to get it working with the hlpe of the TA. I found help from [StackOverflow](https://stackoverflow.com/questions/43517963/running-react-application-in-aws-ec2-server) and [How to install Node JS](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/).
+
+My first attempt was me following [React JS tutorial](https://facebook.github.io/react/tutorial/tutorial.html) to create a tic-tac-toe game and it was pretty eye opening to how different it is. I ended up with errors and having to fix it. The most challenging part of this explortation was trying to get the app to show up on the webpage. TA and I looked up how to do it, and we figured out we need to change the DocumentRoot to the build of the app.
 
 
 

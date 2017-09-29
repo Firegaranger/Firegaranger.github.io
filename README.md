@@ -1,10 +1,31 @@
+# Exploration #2
+
+### Name: Jonathan Yee
+### PawPrint: jy6vd
+### Date: 9/29/2017
+
+## Sources
+
+1.[What nodejs is](https://nodejs.org/en/)
+
+2.[Tutorial for nodejs mysql](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
+
+3.[Help with installation](https://medium.com/technoetics/installing-and-setting-up-mysql-with-nodejs-in-ubuntu-75e0c0a693ba)
+
+## Code
+
+
+## Recap
+
+I believe ReactJS was front-end JavaScript. So I explored some back-end stuff and I stuck with NodeJS mysql. I follwed [Tutorial for nodejs mysql](https://www.w3schools.com/nodejs/nodejs_mysql.asp) to get mysql and nodejs working. I had a little knowledge on mysql and was trying it out with nodejs. All I did was follow w3schools tutorial on the option on the left side. I was a little worried if I didn't install it right so I looked at [Help with installation](https://medium.com/technoetics/installing-and-setting-up-mysql-with-nodejs-in-ubuntu-75e0c0a693ba) for help to check if I had the right version. I don't know how to link it to a webpage since it wasn't in the tutorial.
+
 # Exploration #1
 
 ### Name: Jonathan Yee
 ### PawPrint: jy6vd
 ### Date: 9/14/2017
 
-## Srouces
+## Sources
 
 1. [Installing yarn](https://github.com/yarnpkg/yarn/issues/3708)
 

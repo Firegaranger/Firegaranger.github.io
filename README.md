@@ -14,6 +14,12 @@
 
 ## Code
 
+[Connection to mysql](https://github.com/Firegaranger/Firegaranger.github.io/blob/master/demo_db_connection.js)
+
+[Create database in mysql](https://github.com/Firegaranger/Firegaranger.github.io/blob/master/demo_db_create_database.js)
+
+[Create table within database](https://github.com/Firegaranger/Firegaranger.github.io/blob/master/demo_db_create_table.js)
+
 
 ## Recap
 

@@ -5,18 +5,18 @@
 ### Date: 10/28/2017
 
 ## Sources 
-  1.[Where NodeJS mysql] (https://www.w3schools.com/nodejs/nodejs_mysql_where.asp)
+  1.[Where NodeJS mysql](https://www.w3schools.com/nodejs/nodejs_mysql_where.asp)
   
-  2.[Order by NodeJS mysql] (https://www.w3schools.com/nodejs/nodejs_mysql_orderby.asp)
+  2.[Order by NodeJS mysql](https://www.w3schools.com/nodejs/nodejs_mysql_orderby.asp)
   
-  3.[Delete NodeJS mysql] (https://www.w3schools.com/nodejs/nodejs_mysql_delete.asp)
+  3.[Delete NodeJS mysql](https://www.w3schools.com/nodejs/nodejs_mysql_delete.asp)
 ## Code
 
-[Delete From Table] (https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_delete.js)
+[Delete From Table](https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_delete.js)
 
-[Sort the Table] (https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_sort.js)
+[Sort the Table](https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_sort.js)
 
-[Select a from Table for a certain aspect] (https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_sort.js)
+[Select a from Table for a certain aspect](https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_sort.js)
 
 ## Recap
 

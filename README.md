@@ -1,3 +1,27 @@
+# Exploration #3
+
+### Name: Jonathan Yee
+### PawPrint: jy6vd
+### Date: 10/28/2017
+
+## Sources 
+  1.[Where NodeJS mysql] (https://www.w3schools.com/nodejs/nodejs_mysql_where.asp)
+  
+  2.[Order by NodeJS mysql] (https://www.w3schools.com/nodejs/nodejs_mysql_orderby.asp)
+  
+  3.[Delete NodeJS mysql] (https://www.w3schools.com/nodejs/nodejs_mysql_delete.asp)
+## Code
+
+[Delete From Table] (https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_delete.js)
+
+[Sort the Table] (https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_sort.js)
+
+[Select a from Table for a certain aspect] (https://github.com/Firegaranger/Firegaranger.github.io/blob/master/db_demo_sort.js)
+
+## Recap
+
+So I explored more of NodeJS mysql by using W3School examples. I explored how to delete and select a certain characteristic from a table. Also, sorting it ascending or descending. I followed the same website to explore these features. From what I can tell its not much different compare to regular mysql, just its JavaScript. So for delete, I just deleted a person with a certain address, "Moutain 21". I sort it by first name, and I selected a person with the address, "Park Lane 38".
+
 # Exploration #2
 
 ### Name: Jonathan Yee

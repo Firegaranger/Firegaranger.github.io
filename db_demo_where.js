@@ -11,9 +11,8 @@ var con = mysql.createConnection({
 
 con.connect(function(err) {
     if (err) throw err;
-    var sql = "DELETE FROM customers WHERE address = 'Mountain 21'";
-    con.query(sql, function(err, result) {
+    con.query("SELECT * FROM customers WHERE address = 'Park Lane 38'", function(err, result) {
         if (err) throw err;
-        console.log("Number of records deleted: " + result.affectedRows);
+        console.log(result);
     });
 });

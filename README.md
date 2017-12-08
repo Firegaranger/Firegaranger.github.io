@@ -1,6 +1,6 @@
 # Exploration 4
 
-## Explore
+## Explored
 
 I explored ember and how to implement, run, and troubleshoot it.
 
